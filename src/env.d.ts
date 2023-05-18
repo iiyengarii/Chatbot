@@ -1,7 +1,7 @@
 /// <reference types="astro/client" />
 
 interface ImportMetaEnv {
-  readonly OPENAI_API_KEY: string
+  readonly OPENAI_API_KEY: "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"
   readonly HTTPS_PROXY: string
   readonly OPENAI_API_BASE_URL: string
   readonly HEAD_SCRIPTS: string
